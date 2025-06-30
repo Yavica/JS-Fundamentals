@@ -44,6 +44,9 @@ Prints a square of 'X' characters, where the size is determined by the first arg
 
 Defines a function add(a, b) that returns the sum of two integers. The script then calls this function with the first two command-line arguments and prints the result.
 
+* **`10-factorial.js`**:
+    * Computes and prints the factorial of the first argument using a recursive function. Factorial of NaN or non-positive numbers is 1.
+
 How to Run the Scripts:
 Each JavaScript file can be run using Node.js from your terminal. Navigate to the directory containing the script and use the node command followed by the filename.
 
